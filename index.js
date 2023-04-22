@@ -1,3 +1,4 @@
+import { } from 'dotenv/config';
 import Eris from 'eris';
 import { schedule } from 'node-cron';
 
