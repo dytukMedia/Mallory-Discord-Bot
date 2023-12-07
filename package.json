@@ -1,14 +1,11 @@
 {
-	"name": "mallory",
-	"version": "1.0.0",
-	"description": "A simple bot for help Tablet/Mobile users, create webhooks.",
-	"main": "index.js",
-	"author": "Daniel Richard Todd Back (drtb.uk / dytuk.media)",
-	"license": "MIT",
-	"dependencies": {
-		"dotenv": "^16.0.3",
-		"eris": "^0.17.2",
-		"node-cron": "^3.0.2"
-	},
-	"type": "module"
+    "name": "mallory",
+    "version": "1.0.5",
+    "description": "A simple bot for help Tablet/Mobile users, create webhooks.",
+    "main": "index.js",
+    "author": "Daniel Richard Todd Back (drtb.uk / dytuk.media)",
+    "license": "Unlicense",
+    "dependencies": {
+        "eris": "^0.17.1"
+    }
 }
